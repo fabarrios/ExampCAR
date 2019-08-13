@@ -301,7 +301,7 @@ mySD(letters)
 ###################################################
 ### code chunk number 44: chap-1.Rnw:825-828
 ###################################################
-library("car3") # load car and carData packages
+library("car") # load car and carData packages
 head(Duncan, n=10)
 dim(Duncan)
 
