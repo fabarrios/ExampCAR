@@ -316,7 +316,8 @@ summary(Duncan)
 ### code chunk number 46: fig1-hist-prestige
 ###################################################
 with(Duncan, hist(prestige))
-
+# example (with(Duncan, hist(prestige)))
+# help("Duncan") to print the man page Duncan{carData}
 
 ###################################################
 ### code chunk number 47: fig1-scatterplot-matrix-Duncan
